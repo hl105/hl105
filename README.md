@@ -18,10 +18,10 @@
 - 🌱 I’m currently learning SQL & AWS
 - 📫 How to reach me: [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=hl105&amp;color=EA4335&amp;style=flat-square)](mailto:hl105@wellesley.edu)
 
-<p align="left">
+<div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hl105&show_icons=true&locale=en&layout=compact" alt="hl105" /></p>
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hl105&show_icons=true&locale=en" alt="hl105" width="410" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hl105&show_icons=true&locale=en" alt="hl105" width="410" /></div>
 </p>
 
 <!--
